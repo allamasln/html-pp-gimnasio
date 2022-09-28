@@ -9,11 +9,6 @@
 </head>
 <body>
     
-</body>
-</html>
-
-
-
 <table>
     <tr>
         <th class="head" colspan="3">Invoice #123456789</th>
@@ -56,3 +51,8 @@
         <td >$118.80</td>
     </tr>
 </table>
+</body>
+</html>
+
+
+
