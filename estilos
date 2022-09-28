@@ -1,0 +1,8 @@
+
+tr, td, th {
+    border: 1px solid black;
+}
+
+.head{
+    background-color: gainsboro;
+}
